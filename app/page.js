@@ -65,6 +65,11 @@ if (maintask.length>0) {
             {randertask}
           </ul>
         </div>
+        
+        <div className=" text-slate-300 absolute bottom-0 mt-4  bg-black  bg-opacity-50 ">
+        the design rights are exclusively owned by~ <a href="https://pending-project.vercel.app/" className="text-white ">jetal patel </a> 
+        </div>
+
     </>
   )
 }
